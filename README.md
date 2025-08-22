@@ -28,3 +28,7 @@ Updated for **CounterStrikeSharp v1.0.337** to ensure compatibility with the lat
 csgo/addons/counterstrikesharp/plugins/
 3. Restart the server.  
 4. Edit `AFKManager.json` in the configs folder to customize settings.  
+
+## ❤️ Credits
+- Updated & maintained by **Jerry Borisov (FRAGZ.ONE)**.  
+- Based on the original concept from **NiGHT & K4ryuu**.  
