@@ -4,6 +4,11 @@
 **Game:** Counter-Strike 2 (via CounterStrikeSharp API)  
 
 ---
+## 📜 Changelog
+**v0.1.0 (Initial Release by FRAGZ.ONE)**  
+- Updated for CounterStrikeSharp v1.0.337.  
+- Fixed compatibility issues (`EyeAngles` → `AbsRotation`).  
+---
 
 ## 📌 Description
 AFK Manager is a lightweight CS2 plugin that automatically detects idle players and applies actions such as:  
